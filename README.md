@@ -1,18 +1,16 @@
 # Food Delivery System Project Report
 
-Food Delivery System is a python program which offer the food at your doorstep.
+Food Delivery is a app which offer the food at your doorstep.
 
 ## About Project
 
-• This program is made for restaurant owner and for customer, where owner can add or remove food items in its restaurant.
+• This program is made for customer and restaurant owner   where owner can add or remove food items in its restaurant.
 
 • And the customer access this program to order the food item he/she wish.
 
-• In this program, we provide a choice to select restaurant, which will describe below in :
-```
-How Program works
-```
-• Online or Cash On Delivery and card payment are the choice for payment we provide to the customer.
+• In this program, we provide a choice to select restaurant and order multiple orders and then to select a single item from these resturant and order like if a item is present in all the resturant and if the customer selects that than the resturant offering minimum price will be displayed and customer can order.
+
+•  payment can be done Online or Cash On Delivery and card payment are the choice for payment we provide to the customer.
 
 ## Module Used 
 
@@ -29,21 +27,16 @@ How Program works
 
 ## How The Program Works 
 
-• Now, we learn how this program will run, we provide the testcase for how many times you want to access the program. 
+• we give the choice as you are a restaurant owner or a customer.
 
-• Here, we give the choice as you are a restaurant owner or a customer.
+• If the program is run by restaurant owner then he/she choose the option for owner, then it will ask for add item or to remove the item .
 
-• If the program is run by restaurant owner then he/she choose the option for owner, then it will ask for update menu or to remove the menu whatever you choose the program informs the update what you made.
-
-• If the program is run by customer then he/she must opt for food order option. 
+• If  customer then he/she select  food order option. 
 
 
-• Here we provide the selection strategy for restaurant food item. If customer want to visit the restaurant which provide lowest cost then he/she can order one item only. 
+• Here we can order single  food item. by selecting a single item then it will displah the lowest price offered by the resturant and the nthre customer can order.
 
 • Other strategy is that we provide to choose the restaurant and order maximum of three different items not same item multiple time from that selected restaurant.
 
 • After selection of food item we ask for payment, after payment food will be processed and will deliver to the customer.
 
-## Note
-
-• Please input the valid data whenever it will ask.
